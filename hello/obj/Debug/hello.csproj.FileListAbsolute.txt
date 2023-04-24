@@ -1,0 +1,8 @@
+C:\Users\Надя\helloworld\hello\bin\Debug\hello.exe.config
+C:\Users\Надя\helloworld\hello\bin\Debug\hello.exe
+C:\Users\Надя\helloworld\hello\bin\Debug\hello.pdb
+C:\Users\Надя\helloworld\hello\obj\Debug\hello.csproj.AssemblyReference.cache
+C:\Users\Надя\helloworld\hello\obj\Debug\hello.csproj.SuggestedBindingRedirects.cache
+C:\Users\Надя\helloworld\hello\obj\Debug\hello.csproj.CoreCompileInputs.cache
+C:\Users\Надя\helloworld\hello\obj\Debug\hello.exe
+C:\Users\Надя\helloworld\hello\obj\Debug\hello.pdb
